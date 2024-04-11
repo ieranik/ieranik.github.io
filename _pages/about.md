@@ -11,6 +11,10 @@ This is the front page of a website that is powered by the [academicpages templa
 
 https://github.com/ieranik/ieranik.github.io/assets/57804205/f717bfe2-c198-488f-ac54-6eccc052a015
 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://github.com/ieranik/ieranik.github.io/assets/57804205/f717bfe2-c198-488f-ac54-6eccc052a015
+)
+
+
 
 A data-driven personal website
 ======
