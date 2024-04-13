@@ -16,27 +16,48 @@ I have 9+ years of research, development, and teaching experience, which has mol
   
 
 
-{% include youtubePlayer.html id="AYcu3Itwqc4" %}
+
 
 
 
 Projects
 ======
 
-<table style="border-collapse: collapse; border: none;" align="center">
- <tr style="border: none;">
-    <td style="border: none;" align="center"><b style="font-size:25px">Research Interests</b></td>
-    <td style="border: none;" align="center"><b style="font-size:25px">Spotlight!</b></td>
- </tr>
- <tr>
-    <td style="border: none;" align="center" width="400"> {% include youtubePlayer.html id="AYcu3Itwqc4" %}</td>
-    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px"> 
-	 1. I will visit the <b>Technical University of Darmstadt</b> during the summer of 2024 (Sponsored by <a href="https://www.daad.de/en/" target="_blank">DAAD Fellowship</a>) to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a> .<br/>
-    	2. Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> .<br/>
-    	3. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/></span>
-    </td>
- </tr>
+<table style="border-collapse: collapse; border: none;" align="left">
+	<tr>
+		<td style="border: none;" align="left" width="350"> {% include youtubePlayer.html id="BvKpqHFJBXo" %} </td>
+		<td style="border: none;" align="left">
+			<span style="color:maroon; font-size:17px"> 
+			<b>Differentiable Mapping and Path Planning</b>
+			Single robot visualization of the paper titled "D2M2N: Decentralized differentiable Memory-Enabled Mapping and Navigation for Multiple Robots". I have used value iteration networks (VINs) and transformers to solve the single agent mapping and path planning problem. Unmapped region is shown in gray.
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none;" align="left" width="350"> {% include youtubePlayer.html id="ehlxi9v4qxw" %} </td>
+		<td style="border: none;" align="left">
+			<span style="color:maroon; font-size:17px"> 
+			<b>Fast Connectivity Restoration</b>
+			A simulation of the EA-SCR (Edge Augmentation-Sequential Cascaded Relocation) algorithm from the paper titled "Fast k-connectivity Restoration in Multi-Robot Systems for Robust Communication Maintenance". I have used concepts from graph theory and quadratic optimization to develop an optimal and a heuristic algorithm. Here, a vertex connectivity of k indicates the graph cannot be disconnected by removing any combination of k-1 robots.
+			</span>
+		</td>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+		<td style="border: none;" align="left" width="350"> {% include youtubePlayer.html id="m8KrN-kRqSE" %} </td>
+		<td style="border: none;" align="left">
+			<span style="color:maroon; font-size:17px"> 
+			<b>Resilient Coverage Maximization</b>
+			This video demonstrates an application of the OrG-U-I algorithm for the Resilient Coverage Maximization problem in the context of the Persistent Monitoring task. This case study can be found in the paper titled "Failure-Resilient Coverage Maximization With Multiple Robots" which was published in IEEE Robotics and Automation-Letters (RA-L) is 2021.
+			</span>
+		</td>
+	</tr>
 </table>
+
+
+Publications
+======
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
