@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Md Ishat-E-Rabban"
   pronouns         : # example: "she/her"  
-  bio              : "Research assistant at University of Maryland College Park | MSc in CS | Actively seeking SWE/SDE roles | Robotics, ML, Algorithms enthusiast"
+  bio              : "Research assistant at University of Maryland College Park | MSc in CS | Actively seeking SWE/SDE roles | Robotics, ML, Geometric Computing, Algorithms enthusiast"
   location         : #"Earth"
   employer         : #"University of Maryland College Park"
   uri              : # URL
@@ -69,7 +69,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "@ieranik1301"
+  youtube          : #"@ieranik1301"
   zhihu            : # URL
 
 

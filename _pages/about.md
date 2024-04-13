@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About Me
+====
+
+Hi. I am Ishat, a CS masters student at the University of Maryland College Park (UMD) working with Dr. Pratap Tokekar. I conduct research on multi-robot systems with a focus on developing learning-based path planners and ensuring resilience of robot teams performing optimization tasks. Before joining UMD, I spent 5 years at Bangladesh University of Engineering and Technology (BUET) as a faculty member and IT consultant. During my time at BUET, I also performed research on efficient processing of visibility queries on spatial databases. 
+
+I have 9+ years of research, development, and teaching experience, which has molded me into a versatile CS practitioner. My academic explorations span diverse fields of computer science including deep learning, robotics, graph algorithms, geometric computing, etc. I love to work with people, both as a mentor and mentee. I will be graduating from UMD in June 2024, and I am excitedly looking forward to starting the next phase of my life as a software engineer. 
+  
+
 
 {% include youtubePlayer.html id="AYcu3Itwqc4" %}
 
