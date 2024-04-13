@@ -10,7 +10,7 @@ redirect_from:
 About Me
 ====
 
-Hi. I am Ishat, a CS masters student at the University of Maryland College Park (UMD) working with Dr. Pratap Tokekar. I conduct research on multi-robot systems with a focus on developing learning-based path planners and ensuring resilience of robot teams performing optimization tasks. Before joining UMD, I spent 5 years at Bangladesh University of Engineering and Technology (BUET) as a faculty member and IT consultant. During my time at BUET, I also performed research on efficient processing of visibility queries on spatial databases. 
+Hi. I am Ishat, a CS masters student at [the University of Maryland College Park](https://www.cs.umd.edu/) (UMD) working with Dr. Pratap Tokekar. I conduct research on multi-robot systems with a focus on developing learning-based path planners and ensuring resilience of robot teams performing optimization tasks. Before joining UMD, I spent 5 years at [Bangladesh University of Engineering and Technology](https://cse.buet.ac.bd/) (BUET) as a faculty member and IT consultant. During my time at BUET, I also performed research on efficient processing of visibility queries on spatial databases. 
 
 I have 9+ years of research, development, and teaching experience, which has molded me into a versatile CS practitioner. My academic explorations span diverse fields of computer science including deep learning, robotics, graph algorithms, geometric computing, etc. I love to work with people, both as a mentor and mentee. I will be graduating from UMD in June 2024, and I am excitedly looking forward to starting the next phase of my life as a software engineer. 
   
@@ -20,9 +20,25 @@ I have 9+ years of research, development, and teaching experience, which has mol
 
 
 
-
-A data-driven personal website
+Projects
 ======
+
+<table style="border-collapse: collapse; border: none;" align="center">
+ <tr style="border: none;">
+    <td style="border: none;" align="center"><b style="font-size:25px">Research Interests</b></td>
+    <td style="border: none;" align="center"><b style="font-size:25px">Spotlight!</b></td>
+ </tr>
+ <tr>
+    <td style="border: none;" align="center" width="400"> {% include youtubePlayer.html id="AYcu3Itwqc4" %}</td>
+    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px"> 
+	 1. I will visit the <b>Technical University of Darmstadt</b> during the summer of 2024 (Sponsored by <a href="https://www.daad.de/en/" target="_blank">DAAD Fellowship</a>) to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a> .<br/>
+    	2. Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> .<br/>
+    	3. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/></span>
+    </td>
+ </tr>
+</table>
+
+
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
