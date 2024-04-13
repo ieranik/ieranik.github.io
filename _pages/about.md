@@ -23,7 +23,7 @@ I have 9+ years of research, development, and teaching experience, which has mol
 Projects
 ======
 
-<table style="border-collapse: separate; border: none; border-spacing:50px 50px;" align="left">
+<table style="border-collapse: separate; border: none; border-spacing:25px 25px;" align="left">
 	<tr>
 		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="BvKpqHFJBXo" %} </td>
 		<td style="border: none;" align="left">
