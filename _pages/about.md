@@ -23,14 +23,9 @@ I have 9+ years of research, development, and teaching experience, which has mol
 Projects
 ======
 
-<table style="border-collapse: collapse; border: none;" align="left">
+<table style="border-collapse: collapse; border: none; border-spacing:0 5px;" align="left">
 	<tr>
-		<td style="border: none;" align="left" width="450"> {% include youtubePlayer.html id="BvKpqHFJBXo" %} </td>
-		<td style="border: none;" align="left">
-			<span style="color:white; font-size:17px"> 
-			gap
-			</span>
-		</td>
+		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="BvKpqHFJBXo" %} </td>
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:17px"> 
 			<b>Differentiable Mapping and Path Planning</b>
@@ -39,17 +34,7 @@ Projects
 		</td>
 	</tr>
 	<tr>
-		<span style="color:white; font-size:17px"> 
-			gap
-		</span>
-	</tr>
-	<tr>
-		<td style="border: none;" align="left" width="450"> {% include youtubePlayer.html id="ehlxi9v4qxw" %} </td>
-		<td style="border: none;" align="left">
-			<span style="color:white; font-size:17px"> 
-			gap
-			</span>
-		</td>
+		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="ehlxi9v4qxw" %} </td>
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:17px"> 
 			<b>Fast Connectivity Restoration</b>
@@ -57,18 +42,12 @@ Projects
 			</span>
 		</td>
 	</tr>
-	
 	<tr>
-		<td style="border: none;" align="left" width="450"> {% include youtubePlayer.html id="m8KrN-kRqSE" %} </td>
-		<td style="border: none;" align="left">
-			<span style="color:white; font-size:17px"> 
-			gap
-			</span>
-		</td>
+		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="m8KrN-kRqSE" %} </td>
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:17px"> 
 			<b>Resilient Coverage Maximization</b>
-			This video demonstrates an application of the OrG-U-I algorithm for the Resilient Coverage Maximization problem in the context of the Persistent Monitoring task. This case study can be found in the paper titled "Failure-Resilient Coverage Maximization With Multiple Robots" which was published in IEEE Robotics and Automation-Letters (RA-L) is 2021.
+			This video demonstrates an application of the OrG-U-I algorithm for the Resilient Coverage Maximization problem in the context of the Persistent Monitoring task. This case study can be found in the paper titled "Failure-Resilient Coverage Maximization With Multiple Robots".
 			</span>
 		</td>
 	</tr>
