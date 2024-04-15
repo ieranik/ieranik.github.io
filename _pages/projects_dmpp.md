@@ -10,7 +10,7 @@ author_profile: true
 In this project, we focus on the multi-robot navigation problem in a structured environment. At each time-step, each robot makes a partial observation of the surrounding environment and chooses an action to reach its goal position. Two robots can communicate if they are within the communication range of each other.
 
 <p align="center">
-  <img src="/images/dmpp.png" width="600" />
+  <img src="/images/dmpp.png" width="700" />
 </p> 
 
 Several learning-based planners have been developed to solve this problem in an end-to-end manner. Most recent architectures employ a Convolutional Neural Network (CNN) to encode the robot observations, variants of Graph Neural Networks (GNN) to communicate messages, and a Multi-Layer Perceptron (MLP) to select the actions. However, these architectures only take into account the current observations, and hence cannot leverage memory of what the team has observed in the past. Furthermore, a simple MLP for selecting the action is not expressive enough to solve the navigation task in a complex occupancy map where the optimal path to the goal is significantly longer than the straight-line distance from the goal. Consequently these models exhibit poor performance in the case of complex environments, e.g., a maze. 
