@@ -10,8 +10,8 @@ author_profile: true
 In this project, I study multi-robot task optimization while taking into account the resilience of the system. I explore two multi-robot tasks: coverage maximization and persistent monitoring. In the coverage maximization task, a team of robots aim to cover a set of targets. For each robot, there is a set of candidate trajectories, one of which the robot will follow. The list of targets covered by each robot trajectory is provided. It is assumed that at most α robots may fail, but it is unknown which robots are going to fail. The objective of the problem is to select one trajectory for each robot such that the target coverage is maximized in the case of a worst-case failure of α robots. We call this problem Resilient Coverage Maximization (RCM) problem. The RCM problem is known to be NP-hard. A sample instance of the RCM problem in shown in the following figure.
 
 
-<p align="center" width="400">
-  <img src="/images/rcm.png" />
+<p align="center">
+  <img src="/images/rcm.png" width="400" />
 </p>
 
 
