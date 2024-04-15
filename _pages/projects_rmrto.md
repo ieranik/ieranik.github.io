@@ -14,7 +14,6 @@ In this project, I study multi-robot task optimization while taking into account
   <img src="/images/rcm.png" />
 </p>
 
-![A sample RCM instance](/images/rcm.png)
 
 I  have proposed two algorithms for the RCM problem that outperform the only existing algorithm, called [2PG](https://ieeexplore.ieee.org/document/8534468), both in terms of accuracy and running time. Here, by accuracy of a solution, we mean how much target coverage the solution achieves with respect to an optimal solution. Our proposed algorithms are called Ordered Greedy (OrG) algorithm and Local Search (LS) algorithm. The OrG algorithm produces an ordering of the robots according to some sorting criteria, and greedily selects the trajectories of each robot sequentially according to the sorted order such that, for each robot, marginal increase in target coverage is maximized. Experimental results show that the accuracy of the OrG algorithm is slightly better than the 2PG algorithm, and it runs significantly faster than the 2PG algorithm.
 
