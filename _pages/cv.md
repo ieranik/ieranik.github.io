@@ -16,7 +16,7 @@ Education
 * B.Sc. in Computer Science and Engineering, Bangladesh University of Engineering and Technology, 2014
 
 Work experience
-======
+----
 * Research Assistant (2021 - present)
   * Robotics Algorithms & Autonomous Systems Lab, Department of CS, UMD
   * Supervisor: Dr. Pratap Tokekar
@@ -33,10 +33,22 @@ Work experience
 * IT Consultant (2016 - 2019)
   * Department of CSE, BUET
   * Projects: Android App for Interactive Textbook, Automation of College Admission, Data Center Certification, etc. 
+
+* Research Assistant (2015 - 2016)
+  * Department of CSE, UMD
+  * Supervisor: Dr. Mohammed Eunus Ali
+  * Research Focus: Visibility Queries in Spatial Databases
   
 * Lecturer (2014 - 2017)
   * Department of CSE, BUET
   * Courses Taught: Computer Graphics, Operating Systems, Mathematical Analysis for Computer Science, etc.
+  
+  
+  
+Skills
+----
+* Languages: C++, Python, Java, Matlab, SQL
+* Technologies: Pytorch, Linux Shell, AWS, Latex, Git, ROS, CUDA, Gurobi, OpenGL
 
 
   
