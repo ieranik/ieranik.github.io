@@ -21,7 +21,7 @@ author_profile: true
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:17px"> 
 			<b>Fast Connectivity Restoration</b>
-			A simulation of the EA-SCR (Edge Augmentation-Sequential Cascaded Relocation) algorithm from the paper titled "Fast k-connectivity Restoration in Multi-Robot Systems for Robust Communication Maintenance". I have used concepts from graph theory and quadratic optimization to develop an optimal and a heuristic algorithm. [<a href="https://ieranik.github.io/projects/fcr/">Project Page</a>]
+			The Fast Biconnectivity Restoration (FCR) problem involves finding new positions for a team of robots such that their underlying newtork becomes *k*-connected and the maximum robot movement is minimized. I have developed a Quadratically Constrained Program (QCP) formulation of the FCR problem, which enables us to solve the FCR problem optimally. I have also proposed a heurisitc algorithm based on graph theory which is more efficient than the optimal QCP-based solution. Through simulation and software experiments, it was shown that our proposed solution outperforms all existing algorithms. [<a href="https://ieranik.github.io/projects/fcr/">Project Page</a>]
 			</span>
 		</td>
 	</tr>
