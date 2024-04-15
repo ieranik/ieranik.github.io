@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
+  <div class="wordwrap">Find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</br> </div>
 {% endif %}
 
-</br> 
+
 
 Preprints 
 ----
