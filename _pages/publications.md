@@ -9,7 +9,6 @@ author_profile: true
   <div class="wordwrap">Find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
-https://ieranik.github.io/files/paper1.pdf
 
 Preprints 
 ----
