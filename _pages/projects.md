@@ -12,7 +12,7 @@ author_profile: true
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:16px"> 
 			<b>Deep Mapping and Path Planning</b><br>
-			Single robot visualization of the paper titled "D2M2N: Decentralized differentiable Memory-Enabled Mapping and Navigation for Multiple Robots". I have used value iteration networks (VINs) and transformers to solve the single agent mapping and path planning problem. Unmapped region is shown in gray. [<a href="https://ieranik.github.io/projects/dmpp/">Project Page</a>]
+			I propose a memory-enabled deep neural architecture for multi-robot navigation in a structured environment. The proposed architecture uses value iteration networks to solve the path planning task, and graph neural networks to facilitate inter-robot communication. Our proposed model outperforms the state-of-the-art in both simple and complex occupancy maps, resulting in 5% and 30% increase in action selection accuracy respectively. [<a href="https://ieranik.github.io/projects/dmpp/">Project Page</a>]
 			</span>
 		</td>
 	</tr>
