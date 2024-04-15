@@ -9,9 +9,10 @@ author_profile: true
   <div class="wordwrap">Find my articles on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
+</br> 
 
 Preprints 
-====
+----
 - *Md Ishat-E-Rabban*, Guangyao Shi, Griffin Bonner, Pratap Tokekar, **Fast k-connectivity Restoration in Multi-Robot Systems for Robust Communication Maintenance**, arXiv preprint arXiv:2404.03834, 2024.
 [paper](https://github.com/ieranik/ieranik.github.io/blob/main/files/fcr.pdf)
 [code] (https://github.com/ieranik/fcr)
@@ -27,7 +28,7 @@ Preprints
 
 
 Journals
-====
+----
 
 - *Md Ishat-E-Rabban*, Pratap Tokekar, **Failure-Resilient Coverage Maximization With Multiple Robots**, IEEE Robotics and Automation Letters, volume 6, Issue 2, 2021.
 [paper](https://github.com/ieranik/ieranik.github.io/blob/main/files/rcm.pdf)
@@ -38,7 +39,7 @@ Journals
 
 
 Conferences
-====
+----
 
 - Guangyao Shi, *Md Ishat-E-Rabban*, Lifeng Zhou, Pratap Tokekar, **Communication-Aware Multi-robot Coordination with Submodular Maximization**, IEEE International Conference on Robotics and Automation, Pages 8955-8961, 2021.
 [paper](https://github.com/ieranik/ieranik.github.io/blob/main/files/csm.pdf)
@@ -57,7 +58,7 @@ Conferences
 
 
 Workshops
-====
+----
 
 - *Md Ishat-E-Rabban*, Pratap Tokekar, **Improved Resilient Coverage Maximization with Multiple Robots**, Workshop on Heterogeneous Multi-Robot Task Allocation and Coordination at Robotics: Science and Systems, 2020.
 [paper](https://github.com/ieranik/ieranik.github.io/blob/main/files/rcmw.pdf)
