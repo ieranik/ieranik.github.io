@@ -25,31 +25,32 @@ Projects
 	<tr>
 		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="BvKpqHFJBXo" %} </td>
 		<td style="border: none;" align="left">
-			<span style="color:black; font-size:17px"> 
-			<b>Differentiable Mapping and Path Planning</b>
-			Single robot visualization of the paper titled "D2M2N: Decentralized differentiable Memory-Enabled Mapping and Navigation for Multiple Robots". I have used value iteration networks (VINs) and transformers to solve the single agent mapping and path planning problem. Unmapped region is shown in gray.
+			<span style="color:black; font-size:16px"> 
+			<b>Deep Mapping and Path Planning</b><br>
+			A memory-enabled deep neural architecture is proposed for multi-robot navigation in a structured environment. The architecture uses value iteration networks to solve the path planning task, and graph neural networks to facilitate inter-robot communication by exchanging environment embeddings. Our proposed model outperforms the state-of-the-art in both simple and complex occupancy maps, resulting in 5% and 30% increase in action selection accuracy respectively. [<a href="https://ieranik.github.io/projects/dmpp/">Project Page</a>]
 			</span>
 		</td>
 	</tr>
 	<tr>
 		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="ehlxi9v4qxw" %} </td>
 		<td style="border: none;" align="left">
-			<span style="color:black; font-size:17px"> 
+			<span style="color:black; font-size:16px"> 
 			<b>Fast Connectivity Restoration</b><br>
-			The Fast Biconnectivity Restoration (FCR) problem involves relocating a team of robots such that their underlying newtork becomes <i>k</i>-connected and the maximum robot movement is minimized. I have developed a Quadratically Constrained Program (QCP) formulation to optimally solve the FCR problem, and also a scalable heuristic graph-theoretic algorithm. Experiments show that our proposed solution outperforms all existing algorithms. [<a href="https://ieranik.github.io/projects/fcr/">Project Page</a>]
+			The Fast Biconnectivity Restoration (FCR) problem involves relocating a team of robots such that their underlying newtork becomes <i>k</i>-connected and the maximum robot movement is minimized. I have developed a Quadratically Constrained Program (QCP) formulation to optimally solve the FCR problem, and also a scalable heuristic graph-theoretic algorithm which gives lower running time. Experiments show that our proposed solution outperforms all existing algorithms. [<a href="https://ieranik.github.io/projects/fcr/">Project Page</a>]
 			</span>
 		</td>
 	</tr>
 	<tr>
 		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="m8KrN-kRqSE" %} </td>
 		<td style="border: none;" align="left">
-			<span style="color:black; font-size:17px"> 
-			<b>Resilient Coverage Maximization</b>
-			This video demonstrates an application of the OrG-U-I algorithm for the Resilient Coverage Maximization problem in the context of the Persistent Monitoring task. This case study can be found in the paper titled "Failure-Resilient Coverage Maximization With Multiple Robots".
+			<span style="color:black; font-size:16px"> 
+			<b>Resilient Multi-Robot Task Optimization</b><br>
+			Resilient Task Optimization for multi-robot systems involves selecting trajectories for each robot such the task performance is maximized in the case of an worst case failure of at most α robots. I have developed two algorithms for the resilient coverage maximization task based on greedy heuristic, and local search technique, which gives higher task performance compared to existing approaches. The proposed solution is also tested using a persistent monitoring case study. [<a href="https://ieranik.github.io/projects/rmrto/">Project Page</a>]
 			</span>
 		</td>
 	</tr>
 </table>
+
 
 [See all projects >>](https://ieranik.github.io/projects/)
 
@@ -57,40 +58,27 @@ Projects
 Publications
 ======
 
+- *Md Ishat-E-Rabban*, Guangyao Shi, Griffin Bonner, Pratap Tokekar, **Fast k-connectivity Restoration in Multi-Robot Systems for Robust Communication Maintenance**, arXiv preprint arXiv:2404.03834, 2024.
+[paper](https://ieranik.github.io/files/fcr.pdf)
+[code](https://github.com/ieranik/fbr)
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- *Md Ishat-E-Rabban*, Pratap Tokekar, **D2M2N: Decentralized Differentiable Memory-Enabled Mapping and Navigation for Multiple Robots**, arXiv preprint arXiv:2310.07070, 2023.
+[paper](https://ieranik.github.io/files/D2M2N.pdf)
+[code](https://github.com/ieranik/d2m2n)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- *Md Ishat-E-Rabban*, Pratap Tokekar, **Failure-Resilient Coverage Maximization With Multiple Robots**, IEEE Robotics and Automation Letters, volume 6, Issue 2, 2021.
+[paper](https://ieranik.github.io/files/rcm.pdf)
+[code](https://github.com/ieranik/rcm)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Guangyao Shi, *Md Ishat-E-Rabban*, Lifeng Zhou, Pratap Tokekar, **Communication-Aware Multi-robot Coordination with Submodular Maximization**, IEEE International Conference on Robotics and Automation, Pages 8955-8961, 2021.
+[paper](https://ieranik.github.io/files/csm.pdf)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- *Md Ishat-E-Rabban*, Mohammed Eunus Ali, Muhammad Aamir Cheema, Tanzima Hashem, **The Maximum Visibility Facility Selection Query in Spatial Databases**, Proceedings of the 27th ACM SIGSPATIAL, 2019.
+[paper](https://ieranik.github.io/files/mvfs.pdf)
+[code](https://github.com/ieranik/mvfs)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- *Md Ishat-E-Rabban*, Kaysar Abdullah, Mohammed Eunus Ali, Muhammad Aamir Cheema, **Visibility Color Map for a Fixed or Moving Target in Spatial Databases**, Proceedings of the 14th International Symposium on Spatial and Temporal Databases, 2015.
+[paper](https://ieranik.github.io/files/mvcm.pdf)
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[See all publications >>](https://ieranik.github.io/publications/)
