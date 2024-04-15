@@ -8,6 +8,10 @@ author_profile: true
 Fast Connectivity Restoration
 
 
+hardware video
+{% include youtubePlayer.html id="AYcu3Itwqc4" %}
+
+
 Publications
 ----
 
