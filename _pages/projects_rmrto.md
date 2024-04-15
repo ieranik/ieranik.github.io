@@ -5,7 +5,9 @@ permalink: /projects/rmrto/
 author_profile: true
 ---
 
-Resilient Multi-Robot Task Optimization
+**Keywords:** Greedy Algorithm, Local Search, Coverage Maximization, Persistent Monitoring.
+
+
 
 Publications
 ----

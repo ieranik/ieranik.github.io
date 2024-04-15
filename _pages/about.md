@@ -34,11 +34,9 @@ Projects
 	<tr>
 		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="ehlxi9v4qxw" %} </td>
 		<td style="border: none;" align="left">
-			<span style="color:black; font-size:17px"> 
+			<span style="color:black; font-size:16px"> 
 			<b>Fast Connectivity Restoration</b><br>
-			The Fast Biconnectivity Restoration (FCR) problem involves finding new positions for a team of robots such that their underlying newtork becomes *k*-connected and the maximum robot movement is minimized. I have developed a Quadratically Constrained Program (QCP) formulation of the FCR problem, which enables us to solve the FCR problem optimally. I have also proposed a heurisitc algorithm based on graph theory which is more efficient than the optimal QCP-based solution. Through simulation and software experiments, it was shown that our proposed solution outperforms all existing algorithms.
-
-We therefore propose a scalable algorithm, EA-SCR, to solve the FCR problem which requires less computational time than the optimal QCP-based algorithm. 
+			The Fast Biconnectivity Restoration (FCR) problem involves relocating a team of robots such that their underlying newtork becomes <i>k</i>-connected and the maximum robot movement is minimized. I have developed a Quadratically Constrained Program (QCP) formulation to optimally solve the FCR problem, and also a scalable heuristic graph-theoretic algorithm. Experiments show that our proposed solution outperforms all existing algorithms. [<a href="https://ieranik.github.io/projects/fcr/">Project Page</a>]
 			</span>
 		</td>
 	</tr>
