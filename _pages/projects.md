@@ -34,4 +34,13 @@ author_profile: true
 			</span>
 		</td>
 	</tr>
+	<tr>
+		<td style="border: none;" align="left" width="400"> <p><img src="/images/vcm.png" /></p>  </td>
+		<td style="border: none;" align="left">
+			<span style="color:black; font-size:16px"> 
+			<b>Visibility Queries in Spatial Databases</b><br>
+			I studied visibility problems which address queries like <i>where to place security cameras to ensure better surveillance of a building complex? </i> or <i>where to place billboards in the city to maximize visibility from the surrounding space?</i>, in the presence of city-scale large set of obstacles indexed in a spatial data structure. I used tools from computational geometry, graph theory, and spatial databases to efficiently answer these qeuries. [<a href="https://ieranik.github.io/projects/vqsd/">Project Page</a>]
+			</span>
+		</td>
+	</tr>
 </table>
