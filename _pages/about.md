@@ -53,6 +53,8 @@ Projects
 	</tr>
 </table>
 
+[see all projects](https://ieranik.github.io/publications/)
+
 
 Publications
 ======
