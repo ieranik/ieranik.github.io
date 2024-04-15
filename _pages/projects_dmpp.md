@@ -9,7 +9,7 @@ author_profile: true
 
 In this project, we focus on the multi-robot navigation problem in a structured environment. At each time-step, each robot makes a partial observation of the surrounding environment and chooses an action to reach its goal position. Two robots can communicate if they are within the communication range of each other.
 
-<p align="center">
+<p align="center" width="500">
   <img src="/images/dmpp.png" />
 </p> 
 
