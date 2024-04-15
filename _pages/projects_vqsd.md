@@ -5,6 +5,8 @@ permalink: /projects/vqsd/
 author_profile: true
 ---
 
+**Keywords:** Computational Geometry, Spatial Databases, R-Tree, Graph Partitioning.
+
 In this project, I studied several visibility queries in the presence of a city-scale large set of obstacles indexed in a spatial data structure. I worked extensively on the Maximum Visibility Facility Selection (MVFS) and the Visibility Color Map (VCM) problem. I used tools from computational geometry, graph theory, and spatial databases to efficiently solve these qeuries. 
 
 <p align="center">

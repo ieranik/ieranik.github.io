@@ -35,6 +35,15 @@ author_profile: true
 		</td>
 	</tr>
 	<tr>
+		<td style="border: none;" align="left" width="400"> <p><img src="/images/pslidar.png" /></p>  </td>
+		<td style="border: none;" align="left">
+			<span style="color:black; font-size:16px"> 
+			<b>Object Detection using Pseudo-LIDAR</b><br>
+			Pseudo-LIDAR is a novel pipeline for 3D object detection from stereo images. The basic Pseudo-LiDAR pipeline takes as input a pair of images and uses a stereo depth estimation network to compute the depth map. Then the depths of the pixels are back-projected in the 3D space to create a point cloud, which is called Pseudo-LiDAR. Finally, a 3D object detection model is employed to identify the 3D objects in the Pseudo-LiDAR point cloud. [<a href="https://ieranik.github.io/projects/pslidar/">Project Page</a>]
+			</span>
+		</td>
+	</tr>
+	<tr>
 		<td style="border: none;" align="left" width="400"> <p><img src="/images/mvfs.png" /></p>  </td>
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:16px"> 

@@ -35,14 +35,13 @@ Work experience
   * Projects: Android App for Interactive Textbook, Automation of College Admission, Data Center Certification, etc. 
 
 * Research Assistant (2015 - 2016)
-  * Department of CSE, UMD
+  * Department of CSE, BUET
   * Supervisor: Dr. Mohammed Eunus Ali
   * Research Focus: Visibility Queries in Spatial Databases
   
 * Lecturer (2014 - 2017)
   * Department of CSE, BUET
   * Courses Taught: Computer Graphics, Operating Systems, Mathematical Analysis for Computer Science, etc.
-  
   
   
 Skills
