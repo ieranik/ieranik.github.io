@@ -15,7 +15,7 @@ Hi. I am Ishat, a CS masters student at [the University of Maryland College Park
 
 My academic explorations span diverse fields of computer science including deep learning, robotics, graph algorithms, geometric computing, etc. I have significant experience with deep learning architectures for single and multi-agent path planning and perception, which include graph neural networks, transformers, value iteration networks, objection detectors, depth estimators, etc. In my body of research, I have extensively applied and developed techniques from graph theory (e.g., partitioning, maximum flow, matching, etc.) and computational geometry (e.g., triangulation, projective transforms, visible-surface determination) on moderate to large-sized datasets. 
 
-I am interested in poetry, cricket, and puzzles. I love working with people, both as a mentor and mentee. I will be graduating from UMD in June 2024, and I am excitedly looking forward to starting the next phase of my life as a software engineer. 
+I am interested in poetry, cricket, and puzzles. I love working with people, both as a mentor and mentee. I am graduating from UMD in June 2024, and I am excitedly looking forward to starting the next phase of my life as a software engineer. 
   
 
 
