@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Object Detection using Pseudo-LIDAR"
+title: "Object Detection using Pseudo-LiDAR"
 permalink: /projects/pslidar/
 author_profile: true
 ---
