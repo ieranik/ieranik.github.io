@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Keywords:** Greedy Algorithm, Local Search, Coverage Maximization, Persistent Monitoring.
+
 **Source Code:** [Github](https://github.com/ieranik/rcm)
 
 {% include youtubePlayer.html id="m8KrN-kRqSE" %}

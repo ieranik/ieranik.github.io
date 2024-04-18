@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **Keywords:** Value Iteration Network, Graph Neural Network, Transformers, Mapping, Navigation.
+
 **Source Code:** [Github](https://github.com/ieranik/d2m2n)
 
 {% include youtubePlayer.html id="BvKpqHFJBXo" %}
