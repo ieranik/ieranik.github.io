@@ -12,7 +12,6 @@ redirect_from:
 Education
 ----
 * M.Sc. in Computer Science, University of Maryland Collge Park, June 2024 (Expected)
-* M.Sc. in Computer Science and Engineering, Bangladesh University of Engineering and Technology, 2017
 * B.Sc. in Computer Science and Engineering, Bangladesh University of Engineering and Technology, 2014
 
 Work experience
@@ -25,12 +24,8 @@ Work experience
 * Teaching Assistant (2019 - 2021)
   * Department of CS, UMD
   * Courses Taught: CMSC351 (Algorithms)
- 
-* Assistant Professor (2017 - 2019)
-  * Department of CSE, BUET
-  * Courses Taught: Computer Graphics, Computational Geometry, Algorithm Engineering, etc. 
 
-* IT Consultant (2016 - 2019)
+* IT Consultant (2017 - 2019)
   * Department of CSE, BUET
   * Projects: Android App for Interactive Textbook, Automation of College Admission, Data Center Certification, etc. 
 
@@ -39,7 +34,7 @@ Work experience
   * Supervisor: Dr. Mohammed Eunus Ali
   * Research Focus: Visibility Queries in Spatial Databases
   
-* Lecturer (2014 - 2017)
+* Lecturer (2014 - 2019)
   * Department of CSE, BUET
   * Courses Taught: Computer Graphics, Operating Systems, Mathematical Analysis for Computer Science, etc.
   
