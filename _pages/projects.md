@@ -44,7 +44,7 @@ author_profile: true
 		</td>
 	</tr>
 	<tr>
-		<td style="border: none;" align="left" width="400"> <p><img src="/images/pslidar.png" /></p>  </td>
+		<td style="border: none;" align="left" width="400"> <p><img src="/images/psl_sample.png" /></p>  </td>
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:16px"> 
 			<b>Object Detection using Pseudo-LiDAR</b><br>

@@ -12,7 +12,7 @@ author_profile: true
 
 In this project, we investigate the performance of a heterogeneous multi-robot team consisting of one UAV (Unmanned Aerial Vehicle) and multiple UGVs (Unmanned Ground Vehicles) in the context of the [Persistent Monitoring](https://ieeexplore.ieee.org/document/8815211) (PM) problem. More specifically, we are interested in determining how the knowledge of the position of other UGVs impacts the performance of the UGV team, and if the introduction of a UAV can reduce the positional uncertainty and thus improve task performance.   
 
-Persistent monitoring involves repeatedly visiting a given area, which has applications in patrolling, security surveillance, target searching, etc. In this work, we formulate a novel visibility-based PM problem where a team of UGVs equipped with visual sensors repeatedly patrols an obstructed 2D region. We call the problem *Visibility-based Persistent Monitoring* (VPM) problem. 
+Persistent monitoring involves repeatedly visiting a given area, which has applications in patrolling, security surveillance, target searching, etc. In this work, we formulate a novel visibility-based PM problem where a team of UGVs equipped with cameras repeatedly patrols an obstructed 2D region. We call this the *Visibility-based Persistent Monitoring* (VPM) problem. 
 
 The design of an algorithm that plans the motion of the UGVs performing the VPM task depends on whether each UGV knows the position of all the other UGVs. In this work, we make the realistic assumption that the UGVs might not always maintain communication with one another, hence have incomplete information about the position of the other UGVs. 
 
