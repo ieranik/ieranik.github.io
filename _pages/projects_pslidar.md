@@ -19,7 +19,7 @@ In this project, we integrate a more recent and efficient 3D object detector, ca
 
 
 
-Reports
+Papers
 ----
 
-- *Md Ishat-E-Rabban*, Sumedh Koppula, Sparsh Bhogavilli, Venkata Sairam Polina, **3D Object Detection using Artificially Generated LiDAR Data**, [report](https://ieranik.github.io/files/ps_lidar.pdf)
+- *Md Ishat-E-Rabban*, Sumedh Koppula, Sparsh Bhogavilli, Venkata Sairam Polina, **3D Object Detection using Artificially Generated LiDAR Data**, [paper](https://ieranik.github.io/files/ps_lidar.pdf)
