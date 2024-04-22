@@ -30,7 +30,7 @@ author_profile: true
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:16px"> 
 			<b>Heterogeneous Coordination using Particle Filters and Reinforcement Learning</b><br>
-			We investigate the performance of a heterogeneous multi-robot team consisting of one UAV and multiple UGVs in the context of the persistent monitoring task. More specifically, we focus on determining how the knowledge of the positions of other UGVs impacts the performance of the UGV team, and if the introduction of a UAV can reduce the positional uncertainty and thus improve task performance. [<a href="https://ieranik.github.io/projects/hcrl/">Project Page</a>]
+			We investigate the performance of a heterogeneous multi-robot team consisting of one UAV and multiple UGVs in the context of the persistent monitoring task. We develop a particle filter based algorithm for UGV path planning and an actor-critic reinforcement learning architecture for UAV path planning resulting in reduced positional uncertainty and improved task performance. [<a href="https://ieranik.github.io/projects/hcrl/">Project Page</a>]
 			</span>
 		</td>
 	</tr>

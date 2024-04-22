@@ -42,6 +42,15 @@ Projects
 			</span>
 		</td>
 	</tr>
+		<tr>
+		<td style="border: none;" align="left" width="400"> <p><img src="/images/hc.png" /></p>  </td>
+		<td style="border: none;" align="left">
+			<span style="color:black; font-size:16px"> 
+			<b>Heterogeneous Coordination using Particle Filters and Reinforcement Learning</b><br>
+			We investigate the performance of a heterogeneous multi-robot team consisting of one UAV and multiple UGVs in the context of the persistent monitoring task. We develop a particle filter based algorithm for UGV path planning and an actor-critic reinforcement learning architecture for UAV path planning resulting in reduced positional uncertainty and improved task performance. [<a href="https://ieranik.github.io/projects/hcrl/">Project Page</a>]
+			</span>
+		</td>
+	</tr>
 	<tr>
 		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="m8KrN-kRqSE" %} </td>
 		<td style="border: none;" align="left">
