@@ -33,7 +33,7 @@ Data Querying and Processing
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:16px"> 
 			<b>Data Streaming with Spark and Kafka</b><br>
-			This is a data streaming applicaiton developed using Apacha Spark, Kafka, MySQL, and Scala. In this streaming service, the Kafka producer writes events to a Kafka topic, which are sent to a MySQL database. A web server is also created to view the dashboard. [<a href="https://github.com/ieranik/spark_kafka_stream">Project Page</a>]
+			This is a data streaming application developed using Apache Spark, Kafka, MySQL, and Scala. In this streaming service, the Kafka producer writes events to a Kafka topic, which are sent to a MySQL database. A web server is also created to view the dashboard. [<a href="https://github.com/ieranik/spark_kafka_stream">Project Page</a>]
 			</span>
 		</td>
 	</tr>
