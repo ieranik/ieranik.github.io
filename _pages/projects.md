@@ -20,11 +20,20 @@ Data Querying and Processing
 		</td>
 	</tr>
 	<tr>
-		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="8j2hwWPXvB8" %}  </td>
+		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="KJrx2J0N8ZA" %}  </td>
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:16px"> 
 			<b>Visibility Color Map (VCM) Construction</b><br>
 			The VCM is a color map that assigns a value to each point in the 3D space denoting the visibility measure of a given extended target object from the point in the presence of a city-scale large set of obstacles indexed in a spatial data structure. I developed algorithmic tools to address limitations of existing works on VCM construction and accelerated VCM query processing by two orders of magnitude. [<a href="https://ieranik.github.io/projects/vcm/">Project Page</a>]
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td style="border: none;" align="left" width="400"> <p><img src="/images/kafka.png" /></p>  </td>
+		<td style="border: none;" align="left">
+			<span style="color:black; font-size:16px"> 
+			<b>Data Streaming with Spark and Kafka</b><br>
+			This is a data streaming applicaiton developed using Apacha Spark, Kafka, MySQL, and Scala. In this streaming service, the Kafka producer writes events to a Kafka topic, which are sent to a MySQL database. A web server is also created to view the dashboard. [<a href="https://github.com/ieranik/spark_kafka_stream">Project Page</a>]
 			</span>
 		</td>
 	</tr>

@@ -8,7 +8,7 @@ author_profile: true
 **Keywords:** Geometric Projections, Spatial Databases, R-Tree.
 
 
-{% include youtubePlayer.html id="8j2hwWPXvB8" %}
+{% include youtubePlayer.html id="KJrx2J0N8ZA" %}
 
 In this project, I worked on the Visibility Color Map (VCM) problem. I used tools from computational geometry, graph theory, and spatial databases to efficiently solve these queries. 
 
@@ -19,7 +19,7 @@ In this project, I worked on the Visibility Color Map (VCM) problem. I used tool
 The VCM problem is to assign a color value to each point in the space denoting the visibility measure of a given extended target object from the point. In the existing solutions to the VCM problem, a viewpoint is simply discarded (i.e., considered as non-visible) if an obstacle even slightly blocks the view of the target from the viewpoint, which restricts its applicability for a wide range of scenarios. To alleviate this limitation, in this paper, we propose a scalable, efficient and comprehensive solution to construct a VCM for a fixed target that considers the partial visibility of the target. We index the obstacles in a spatial data structure called R-tree and use a projection-based idea to efficiently construct the VCM as outlined in the above figure. More importantly, our proposed data structures for the fixed target support incremental updates of the VCM if the target moves to nearby positions. Our experimental results show that our approach is orders of magnitude faster than the baseline technique.
 
 
-{% include youtubePlayer.html id="DnXHr-aDkHk" %}
+{% include youtubePlayer.html id="7C0u7YufaqI" %}
 
 
 

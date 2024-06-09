@@ -42,7 +42,16 @@ Projects
 			</span>
 		</td>
 	</tr>
-		<tr>
+	<tr>
+		<td style="border: none;" align="left" width="400"> {% include youtubePlayer.html id="KJrx2J0N8ZA" %}  </td>
+		<td style="border: none;" align="left">
+			<span style="color:black; font-size:16px"> 
+			<b>Visibility Color Map (VCM) Construction</b><br>
+			The VCM is a color map that assigns a value to each point in the 3D space denoting the visibility measure of a given extended target object from the point in the presence of a city-scale large set of obstacles indexed in a spatial data structure. I developed algorithmic tools to address limitations of existing works on VCM construction and accelerated VCM query processing by two orders of magnitude. [<a href="https://ieranik.github.io/projects/vcm/">Project Page</a>]
+			</span>
+		</td>
+	</tr>
+	<tr>
 		<td style="border: none;" align="left" width="400"> <p><img src="/images/hc.png" /></p>  </td>
 		<td style="border: none;" align="left">
 			<span style="color:black; font-size:16px"> 
