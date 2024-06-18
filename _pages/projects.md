@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Data Querying and Processing 
+Spatial Data Querying and Processing 
 ----
 
 <table style="border-collapse: separate; border: none; border-spacing:25px 25px;" align="left">
