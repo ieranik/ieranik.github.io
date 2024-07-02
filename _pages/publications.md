@@ -12,9 +12,6 @@ author_profile: true
 
 Preprints 
 ----
-- *Md Ishat-E-Rabban*, Guangyao Shi, Griffin Bonner, Pratap Tokekar, **Fast k-connectivity Restoration in Multi-Robot Systems for Robust Communication Maintenance**, arXiv preprint arXiv:2404.03834, 2024.
-[paper](https://ieranik.github.io/files/fcr.pdf)
-[code](https://github.com/ieranik/fbr)
 
 - *Md Ishat-E-Rabban*, Pratap Tokekar, **D2M2N: Decentralized Differentiable Memory-Enabled Mapping and Navigation for Multiple Robots**, arXiv preprint arXiv:2310.07070, 2023.
 [paper](https://ieranik.github.io/files/D2M2N.pdf)
@@ -39,6 +36,10 @@ Journals
 
 Conferences
 ----
+
+- *Md Ishat-E-Rabban*, Guangyao Shi, Griffin Bonner, Pratap Tokekar, **Fast k-connectivity Restoration in Multi-Robot Systems for Robust Communication Maintenance**, 17th International Symposium on Distributed Autonomous Robotic Systems (DARS), 2024.
+[paper](https://ieranik.github.io/files/fcr.pdf)
+[code](https://github.com/ieranik/fbr)
 
 - Guangyao Shi, *Md Ishat-E-Rabban*, Lifeng Zhou, Pratap Tokekar, **Communication-Aware Multi-robot Coordination with Submodular Maximization**, IEEE International Conference on Robotics and Automation, Pages 8955-8961, 2021.
 [paper](https://ieranik.github.io/files/csm.pdf)
