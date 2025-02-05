@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Md Ishat-E-Rabban"
   pronouns         : # example: "she/her"  
-  bio              : "Research assistant at the University of Maryland College Park | M.Sc. in CS | Expert in Spatial/Graph Data Processing, Geometric Computing, Deep Learning, and Robotic Planning | Actively seeking software engineering roles"
+  bio              : "SDE at Intel | M.Sc. in CS from UMD College Park | Expert in Deep Learning, Geometric Computing, and Robotic Planning | Actively seeking software engineering roles"
   location         : #"Earth"
-  employer         : #"University of Maryland College Park"
+  employer         : #"Intel"
   uri              : # URL
   email            : "ieranikg@gmail.com" 
 
